@@ -1,1 +1,1 @@
-# marafon.js
+# marafon.js Vlad Minin
